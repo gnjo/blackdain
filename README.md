@@ -23,7 +23,12 @@ keyword一覧に画像が存在した場合、画像のコピーも加える。
 .frame
  .ed
  .items
-
+```
+003 
+```
+画像をドロップした後、左の辞書枠に追加する。
+＃未定義について。
+未定義用語：説明＠https://imgr.../...jpg
 ```
 # basecolor
 https://gnjo.github.io/blackdain/black.css
